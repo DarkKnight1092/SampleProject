@@ -14,7 +14,7 @@ public class MostRepeatedInteger {
 
 //    int ar[] = {2,2,3,4,3};
 //
-//    int a = 0;
+//    int a = 0
 //    for(int i = 0;i<ar.length;i++){
 //       a = a ^ ar[i];
 //
